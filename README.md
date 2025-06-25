@@ -1,1 +1,2 @@
 # Prodigy_DS_05
+Welcome to Prodigy_DS_05.ipynb, the fifth installment of the Prodigy Data Science notebook series. This notebook continues the hands-on approach to working with real-world data by offering advanced exploration, visualization, and pattern analysis using Python’s popular data stack.Analyze traffic accident data to identify patterns related to road conditions, weather, and time of day. Visualize accident hotspots and contributing factors.
